@@ -1,4 +1,4 @@
-# Simda-Trajan Analysis
+# Simda-Trojan Analysis
 
 ## Double Layer Packing Mechanism in Malware
 
